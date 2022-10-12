@@ -1,0 +1,2211 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rule component onViewCondition should be able to prevent viewing condition 1`] = `
+<div>
+  <div
+    class="rule__container undefined"
+  >
+    <div
+      class="rule__header"
+    >
+      <h5>
+        Rule 1
+      </h5>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-rule"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="rule__conditions-container"
+    >
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="rule-label__container"
+          style="width: 112px;"
+        >
+          If
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title1
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div
+              style="margin-top: -1px; margin-bottom: -1px;"
+            >
+              <div>
+                value1
+              </div>
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="3"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="button--component rule__add-condition-button btn btn-light"
+      data-testid="rule--add-condition-button"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="14"
+        opacity="1"
+        stroke="#051022"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="14"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="12"
+          x2="12"
+          y1="8"
+          y2="16"
+        />
+        <line
+          x1="8"
+          x2="16"
+          y1="12"
+          y2="12"
+        />
+      </svg>
+      <span
+        class="text-with-icons"
+      >
+        Add Condition
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Rule component should allow viewing conditions 1`] = `
+<div>
+  <div
+    class="rule__container undefined"
+  >
+    <div
+      class="rule__header"
+    >
+      <h5>
+        Rule 1
+      </h5>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-rule"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="rule__conditions-container"
+    >
+      <div
+        class="edit-condition__container"
+      >
+        <div
+          class="edit-condition__content"
+        >
+          <p
+            class="edit-condition__text--title"
+          >
+            Title1
+          </p>
+          <p
+            class="edit-condition__text--subtitle"
+          >
+            Subtitle1
+          </p>
+          <div
+            class="edit-condition__custom-content"
+          >
+            <div />
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="button--component rule__add-condition-button btn btn-light"
+      data-testid="rule--add-condition-button"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="14"
+        opacity="1"
+        stroke="#051022"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="14"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="12"
+          x2="12"
+          y1="8"
+          y2="16"
+        />
+        <line
+          x1="8"
+          x2="16"
+          y1="12"
+          y2="12"
+        />
+      </svg>
+      <span
+        class="text-with-icons"
+      >
+        Add Condition
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Rule component should be able to edit and delete condition and delete rule 1`] = `
+<div>
+  <div
+    class="rule__container undefined"
+  >
+    <div
+      class="rule__header"
+    >
+      <h5>
+        Rule 1
+      </h5>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-rule"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="rule__conditions-container"
+    >
+      <div
+        class="edit-condition__container"
+      >
+        <div
+          class="edit-condition__content"
+        >
+          <p
+            class="edit-condition__text--title"
+          >
+            Title1
+          </p>
+          <p
+            class="edit-condition__text--subtitle"
+          >
+            Subtitle1
+          </p>
+          <div
+            class="edit-condition__custom-content"
+          >
+            <div>
+              <button>
+                Cancel Condition
+              </button>
+              <button>
+                Apply Condition
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck2-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title2
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div>
+              Custom Values 
+              ck2
+               
+               
+              {"list":["value2"]}
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck3-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        />
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          />
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="button--component rule__add-condition-button btn btn-light"
+      data-testid="rule--add-condition-button"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="14"
+        opacity="1"
+        stroke="#051022"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="14"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="12"
+          x2="12"
+          y1="8"
+          y2="16"
+        />
+        <line
+          x1="8"
+          x2="16"
+          y1="12"
+          y2="12"
+        />
+      </svg>
+      <span
+        class="text-with-icons"
+      >
+        Add Condition
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Rule component should be able to edit and delete condition and delete rule 2`] = `
+<div>
+  <div
+    class="rule__container undefined"
+  >
+    <div
+      class="rule__header"
+    >
+      <h5>
+        Rule 1
+      </h5>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-rule"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="rule__conditions-container"
+    >
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck1-logical-operator"
+              type="button"
+            >
+              <span>
+                If
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title1
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div
+              style="margin-top: -1px; margin-bottom: -1px;"
+            >
+              <div>
+                value1
+              </div>
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck2-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title2
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div>
+              Custom Values 
+              ck2
+               
+               
+              {"list":["value2"]}
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck3-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        />
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          />
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="button--component rule__add-condition-button btn btn-light"
+      data-testid="rule--add-condition-button"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="14"
+        opacity="1"
+        stroke="#051022"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="14"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="12"
+          x2="12"
+          y1="8"
+          y2="16"
+        />
+        <line
+          x1="8"
+          x2="16"
+          y1="12"
+          y2="12"
+        />
+      </svg>
+      <span
+        class="text-with-icons"
+      >
+        Add Condition
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Rule component should be able to select options when adding 1`] = `
+<div
+  class="view-condition__container"
+  data-testid="view-condition-container"
+>
+  <div
+    class="dropdown--component dropdown"
+  >
+    <div>
+      <button
+        aria-expanded="false"
+        aria-haspopup="true"
+        class="button--component dropdown-toggle btn btn-outline-primary"
+        id="key-1-logical-operator"
+        type="button"
+      >
+        <span>
+          If
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    class="rule-label__container"
+    style="width: 184px;"
+  >
+    Title2
+  </div>
+  <div
+    class="rule-label__container"
+    style="width: 72px;"
+  >
+    is
+  </div>
+  <div
+    class="values__container"
+  >
+    <div
+      class="values__content-container"
+    >
+      <div>
+        Custom Values 
+        key-1
+         
+         
+        {"list":["neu1","new2"]}
+      </div>
+    </div>
+    <div
+      class="values__button-container"
+    >
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-edit-icon"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+          />
+          <path
+            d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+          />
+        </svg>
+      </button>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-icon"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Rule component should match snapshot when empty 1`] = `
+<div>
+  <div
+    class="rule__container undefined"
+  >
+    <div
+      class="rule__header"
+    >
+      <h5>
+        Rule 1
+      </h5>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-rule"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="rule__conditions-container"
+    />
+    <button
+      class="button--component rule__add-condition-button btn btn-light"
+      data-testid="rule--add-condition-button"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="14"
+        opacity="1"
+        stroke="#051022"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="14"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="12"
+          x2="12"
+          y1="8"
+          y2="16"
+        />
+        <line
+          x1="8"
+          x2="16"
+          y1="12"
+          y2="12"
+        />
+      </svg>
+      <span
+        class="text-with-icons"
+      >
+        Add Condition
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Rule component should render and allow changing of logical operator 1`] = `
+<div>
+  <div
+    class="rule__container undefined"
+  >
+    <div
+      class="rule__header"
+    >
+      <h5>
+        Rule 1
+      </h5>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-rule"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="rule__conditions-container"
+    >
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck1-logical-operator"
+              type="button"
+            >
+              <span>
+                If
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title1
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div
+              style="margin-top: -1px; margin-bottom: -1px;"
+            >
+              <div>
+                value1
+              </div>
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck2-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title2
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div>
+              Custom Values 
+              ck2
+               
+               
+              {"list":["value2"]}
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck3-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        />
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          />
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="button--component rule__add-condition-button btn btn-light"
+      data-testid="rule--add-condition-button"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="14"
+        opacity="1"
+        stroke="#051022"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="14"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="12"
+          x2="12"
+          y1="8"
+          y2="16"
+        />
+        <line
+          x1="8"
+          x2="16"
+          y1="12"
+          y2="12"
+        />
+      </svg>
+      <span
+        class="text-with-icons"
+      >
+        Add Condition
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Rule component should render and allow changing of logical operator 2`] = `
+<div>
+  <div
+    class="rule__container undefined"
+  >
+    <div
+      class="rule__header"
+    >
+      <h5>
+        Rule 1
+      </h5>
+      <button
+        class="button--component button--component--icon-only btn btn-light btn-sm"
+        data-testid="rule-delete-rule"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="14"
+          opacity="1"
+          stroke="#051022"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polyline
+            points="3 6 5 6 21 6"
+          />
+          <path
+            d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+          />
+          <line
+            x1="10"
+            x2="10"
+            y1="11"
+            y2="17"
+          />
+          <line
+            x1="14"
+            x2="14"
+            y1="11"
+            y2="17"
+          />
+        </svg>
+      </button>
+    </div>
+    <div
+      class="rule__conditions-container"
+    >
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck1-logical-operator"
+              type="button"
+            >
+              <span>
+                If not
+              </span>
+            </button>
+          </div>
+          <div
+            aria-labelledby=""
+            class="dropdown-menu"
+            style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none; margin: 0px;"
+            x-placement="bottom-start"
+          >
+            <a
+              class="dropdown-item"
+              href="#"
+              role="button"
+            >
+              If
+            </a>
+            <a
+              aria-disabled="true"
+              class="dropdown-item disabled"
+              href="#"
+              role="button"
+              tabindex="-1"
+            >
+              If not
+            </a>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title1
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div
+              style="margin-top: -1px; margin-bottom: -1px;"
+            >
+              <div>
+                value1
+              </div>
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck2-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        >
+          Title2
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          >
+            <div>
+              Custom Values 
+              ck2
+               
+               
+              {"list":["value2"]}
+            </div>
+          </div>
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-condition__container"
+        data-testid="view-condition-container"
+      >
+        <div
+          class="dropdown--component dropdown"
+        >
+          <div>
+            <button
+              aria-expanded="false"
+              aria-haspopup="true"
+              class="button--component dropdown-toggle btn btn-outline-primary"
+              id="ck3-logical-operator"
+              type="button"
+            >
+              <span>
+                And
+              </span>
+            </button>
+          </div>
+          <div
+            aria-labelledby=""
+            class="dropdown-menu"
+            style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none; margin: 0px;"
+            x-placement="bottom-start"
+          >
+            <a
+              aria-disabled="true"
+              class="dropdown-item disabled"
+              href="#"
+              role="button"
+              tabindex="-1"
+            >
+              And
+            </a>
+            <a
+              class="dropdown-item"
+              href="#"
+              role="button"
+            >
+              And not
+            </a>
+          </div>
+        </div>
+        <div
+          class="rule-label__container"
+          style="width: 184px;"
+        />
+        <div
+          class="rule-label__container"
+          style="width: 72px;"
+        >
+          is
+        </div>
+        <div
+          class="values__container"
+        >
+          <div
+            class="values__content-container"
+          />
+          <div
+            class="values__button-container"
+          >
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-edit-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                />
+                <path
+                  d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                />
+              </svg>
+            </button>
+            <button
+              class="button--component button--component--icon-only btn btn-light btn-sm"
+              data-testid="rule-delete-icon"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="14"
+                opacity="1"
+                stroke="#051022"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="14"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polyline
+                  points="3 6 5 6 21 6"
+                />
+                <path
+                  d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"
+                />
+                <line
+                  x1="10"
+                  x2="10"
+                  y1="11"
+                  y2="17"
+                />
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="11"
+                  y2="17"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="button--component rule__add-condition-button btn btn-light"
+      data-testid="rule--add-condition-button"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="14"
+        opacity="1"
+        stroke="#051022"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="14"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          cx="12"
+          cy="12"
+          r="10"
+        />
+        <line
+          x1="12"
+          x2="12"
+          y1="8"
+          y2="16"
+        />
+        <line
+          x1="8"
+          x2="16"
+          y1="12"
+          y2="12"
+        />
+      </svg>
+      <span
+        class="text-with-icons"
+      >
+        Add Condition
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Rule component should render custom value component with correct props 1`] = `
+<div
+  class="values__content-container"
+>
+  <div>
+    Custom Values 
+    ck1
+     
+    valuesProp
+     
+    {"list":["value1"]}
+  </div>
+</div>
+`;

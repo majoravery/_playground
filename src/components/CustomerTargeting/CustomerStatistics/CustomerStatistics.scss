@@ -1,0 +1,82 @@
+.customer-statistics-display-wrapper{
+  background-color: #efeef6;
+  height: 50px;
+  margin-top: 16px;
+  padding: 5px 25px 5px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+
+  &.preview-count{
+    justify-content: flex-end;
+  }
+
+  .customer-statistics-loading{
+    position: absolute;
+    background-color: transparent;
+  }
+  .customer-count-display-wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+  .customer-count-text {
+    color: #2d2d36;
+    font-size: 14px;
+    margin: 0px;
+    font-weight: 500;
+  }
+
+  .customer-count-updated-text{
+    color: #2d2d36;
+    font-size: 14px;
+    margin: 0px;
+  }
+  .preview-count-button, .download-customer-codes-button{
+    height: 40px
+  }
+}
+
+.customer-statistics-info-wrapper{
+  display: flex;
+  background-color: #fff5e8;
+  margin-top: 16px;
+  padding: 16px 18px;
+  align-content: flex-start;
+  .customer-statistics-info-text{
+    margin: 0px 0px 0px 14px;
+    color: #2d2d36;
+    font-size: 14px;
+    font-weight: 500;
+    .customer-statistics-info-text-inline-link{
+      text-decoration: underline !important;
+      color: #2d2d36 !important;
+      font-size: 14px !important;
+      font-weight: 500 !important;
+      padding: 0;
+      margin: 0;
+    }
+  }
+}
+.customer-code-download-links-modal{
+  top: 50px;
+  .modal-header {
+    align-items: center;
+    background-color: #7b7aba;
+    height: 40px;
+    padding-top: 0;
+    padding-bottom: 0;
+    .modal-title {
+      color: #ffffff;
+    }
+    button {
+      color: #ffffff;
+      padding: 0;
+      margin: -6px 0 0;
+    }
+  }
+  .customer-code-download-links-wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+}

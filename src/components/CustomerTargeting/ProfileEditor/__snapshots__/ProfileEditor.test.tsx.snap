@@ -1,0 +1,1107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfileEditor renders 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value="in"
+        >
+          in
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-select-control"
+        id="value-input"
+        name="value"
+      >
+        <option
+          value="android"
+        >
+          Android
+        </option>
+        <option
+          value="ios"
+        >
+          iOS
+        </option>
+        <option
+          value="mweb"
+        >
+          Mobile Web
+        </option>
+      </select>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor renders boolean selection input 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-bool-input-control"
+        id="value-input"
+        name="value"
+      >
+        <option
+          value="true"
+        >
+          true
+        </option>
+        <option
+          value="false"
+        >
+          false
+        </option>
+      </select>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor renders datepicker for date inputs 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value=">"
+        >
+          &gt;
+        </option>
+        <option
+          value=">="
+        >
+          &gt;=
+        </option>
+        <option
+          value="<="
+        >
+          &lt;=
+        </option>
+        <option
+          value="<"
+        >
+          &lt;
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <div
+        data-testid="profile-editor-datepicker-control"
+      >
+        <div
+          class="react-datepicker-wrapper"
+        >
+          <div
+            class="react-datepicker__input-container"
+          >
+            <input
+              autocomplete="off"
+              class=""
+              name="start-date"
+              placeholder="(e.g. 31/12/2021)"
+              type="text"
+              value="05/11/2020"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor renders datepicker for time inputs 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value=">"
+        >
+          &gt;
+        </option>
+        <option
+          value=">="
+        >
+          &gt;=
+        </option>
+        <option
+          value="<="
+        >
+          &lt;=
+        </option>
+        <option
+          value="<"
+        >
+          &lt;
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <div
+        data-testid="profile-editor-datepicker-control"
+      >
+        <div
+          class="react-datepicker-wrapper"
+        >
+          <div
+            class="react-datepicker__input-container"
+          >
+            <input
+              autocomplete="off"
+              class=""
+              name="start-date"
+              placeholder="(e.g. 31/12/2021)"
+              type="text"
+              value="05/11/2020"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor renders float number input 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value=">"
+        >
+          &gt;
+        </option>
+        <option
+          value=">="
+        >
+          &gt;=
+        </option>
+        <option
+          value="<="
+        >
+          &lt;=
+        </option>
+        <option
+          value="<"
+        >
+          &lt;
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <input
+        class="form-control"
+        data-testid="profile-editor-number-input-control"
+        id="value-input"
+        max="Infinity"
+        min="0"
+        name="value"
+        step="0.01"
+        type="number"
+        value="0.1"
+      />
+      <div
+        class="invalid-feedback"
+      >
+        Invalid number! ()
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor renders number input 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value=">"
+        >
+          &gt;
+        </option>
+        <option
+          value=">="
+        >
+          &gt;=
+        </option>
+        <option
+          value="<="
+        >
+          &lt;=
+        </option>
+        <option
+          value="<"
+        >
+          &lt;
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <input
+        class="form-control"
+        data-testid="profile-editor-number-input-control"
+        id="value-input"
+        max="Infinity"
+        min="0"
+        name="value"
+        step="1"
+        type="number"
+        value="0"
+      />
+      <div
+        class="invalid-feedback"
+      >
+        Invalid number! (min: 0)
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor renders select input 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value="in"
+        >
+          in
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-select-control"
+        id="value-input"
+        name="value"
+      >
+        <option
+          value="android"
+        >
+          Android
+        </option>
+        <option
+          value="ios"
+        >
+          iOS
+        </option>
+        <option
+          value="mweb"
+        >
+          Mobile Web
+        </option>
+      </select>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor renders text input 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value="not"
+        >
+          not
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <input
+        class="form-control"
+        data-testid="profile-editor-text-input-control"
+        id="value-input"
+        name="value"
+        type="text"
+        value="some random text"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor: multiple selection options renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value="in"
+        >
+          in
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-multiple-select-control"
+        id="value-input"
+        name="value"
+      >
+        <option>
+          2 selected
+        </option>
+      </select>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor: multiple selection options renders empty value 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value="in"
+        >
+          in
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-multiple-select-control"
+        id="value-input"
+        name="value"
+      >
+        <option>
+          0 selected
+        </option>
+      </select>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ProfileEditor: multiple selection options renders fallback value 1`] = `
+<DocumentFragment>
+  <div
+    class="profile-selector-row"
+  >
+    <div
+      class="profile-selector-form-control field-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-field-key-control"
+        id="field-input"
+        name="fieldKey"
+      >
+        <option
+          value="profile.VisitAttributes.FirstPlatformDevice"
+        >
+          First Platform Device
+        </option>
+        <option
+          value="profile.VisitAttributes.TotalVisits"
+        >
+          Total Visits
+        </option>
+        <option
+          value="profile.VisitAttributes.LastVisitTimestamp"
+        >
+          Last Visit Timestamp
+        </option>
+        <option
+          value="profile.VisitAttributes.IsGuest"
+        >
+          Guest
+        </option>
+        <option
+          value="profile.OrderAttributes.NightHourOrderRate"
+        >
+          Night Hour Order Rate
+        </option>
+        <option
+          value="dummyProfile.freeTextInput"
+        >
+          Free Text Input
+        </option>
+        <option
+          value="profile.VisitAttributes.SignedUpDateLocal"
+        >
+          Signed Up Date
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control comparator-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-comparator-control"
+        id="comparator-input"
+        name="comparator"
+      >
+        <option
+          value="="
+        >
+          =
+        </option>
+        <option
+          value="in"
+        >
+          in
+        </option>
+      </select>
+    </div>
+    <div
+      class="profile-selector-form-control value-input form-group"
+    >
+      <select
+        class="form-control"
+        data-testid="profile-editor-multiple-select-control"
+        id="value-input"
+        name="value"
+      >
+        <option>
+          0 selected
+        </option>
+      </select>
+    </div>
+  </div>
+</DocumentFragment>
+`;

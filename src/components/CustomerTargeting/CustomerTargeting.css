@@ -1,0 +1,80 @@
+.customer-profiling .profile-selector {
+    background-color: #f8f8f8;
+    display: flex;
+    flex-direction: column;
+    padding: 51px 24px 16px;
+    margin-bottom: 16px;
+    position: relative;
+}
+
+.customer-profiling .profile-selector label {
+    font-weight: bold;
+    text-transform: none;
+}
+
+.customer-profiling .profile-selector .profile-selector-delete-button {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+}
+
+.customer-profiling .profile-selector .profile-selector-labels,
+.customer-profiling .profile-selector .profile-selector-row {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.customer-profiling .profile-selector .profile-selector-labels .profile-selector-form-control,
+.customer-profiling .profile-selector .profile-selector-row .profile-selector-form-control {
+    display: block;
+    background-color: white;
+}
+
+.customer-profiling .profile-selector .profile-selector-labels .field-input,
+.customer-profiling .profile-selector .profile-selector-row .field-input {
+    margin-right: 4px;
+    flex: 2;
+}
+
+.customer-profiling .profile-selector .profile-selector-labels .comparator-input,
+.customer-profiling .profile-selector .profile-selector-row .comparator-input {
+    margin-right: 4px;
+    width: 100px;
+}
+
+.customer-profiling .profile-selector .profile-selector-labels .value-input,
+.customer-profiling .profile-selector .profile-selector-row .value-input {
+    flex: 1;
+}
+
+.customer-profiling .mass-upload-count {
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.customer-profiling .tab-content-footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 16px;
+}
+
+.customer-profiling .tab-content-footer .tab-content-footer-remove-btn {
+    text-transform: capitalize;
+}
+
+.customer-profiling .tab-content-footer .tab-content-footer-select-btn {
+    margin-left: 16px;
+}
+
+.customer-profiling-rules-wrapper {
+    position: relative;
+}
+
+.customer-profiling-rules-wrapper .customer-profiling-rules-loading {
+    position: absolute;
+    z-index: 1;
+}
+
+.customer-profiling-rules-wrapper .customer-profiling-rules-loading .spinner-border {
+    display: none;
+}

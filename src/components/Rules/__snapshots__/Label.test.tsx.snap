@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Label should render and match snapshot 1`] = `
+<div>
+  <div
+    class="rule-label__container"
+    style="width: auto;"
+  >
+    Test Value
+  </div>
+</div>
+`;
+
+exports[`Label should render and match snapshot 2`] = `
+<div>
+  <div
+    class="rule-label__container"
+    style="width: 200px;"
+  >
+    Test Value
+  </div>
+</div>
+`;
