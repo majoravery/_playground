@@ -1,0 +1,4093 @@
+{
+  "status_code": 200,
+  "message": "success",
+  "data": {
+    "available_count": 21,
+    "returned_count": 21,
+    "events": [],
+    "close_reasons": [],
+    "banner": "",
+    "items": [
+      {
+        "id": 10490,
+        "code": "v1vd",
+        "accepts_instructions": true,
+        "address": "01-K1, 8 Grange Road, Cathay Cineleisure Orchard, River Valley, West Central",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 0.8877314738107751,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v1vd-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v1vd-listing.jpg",
+        "is_new_until": "2017-12-08T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.30138575,
+        "logo": "",
+        "longitude": 103.83683185,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Orchard Cineleisure)",
+        "payment_types": [],
+        "post_code": "239695",
+        "primary_cuisine_id": 1109,
+        "rating": 4.6,
+        "redirection_url": "https://foodpanda.sg/restaurant/v1vd/starbucks-orchard-cineleisure",
+        "review_number": 2845,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-orchard-cineleisure",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1796,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v1vd/starbucks-orchard-cineleisure",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101227",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 10461,
+        "code": "v5md",
+        "accepts_instructions": true,
+        "address": "01-29, 6 Eu Tong Sen Street, The Central, Lower Central, Clarke Quay",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 0.9572950197811583,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v5md-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v5md-listing.jpg",
+        "is_new_until": "2017-12-08T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.28863085,
+        "logo": "",
+        "longitude": 103.84689705,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (The Central)",
+        "payment_types": [],
+        "post_code": "059817",
+        "primary_cuisine_id": 1109,
+        "rating": 4.3,
+        "redirection_url": "https://foodpanda.sg/restaurant/v5md/starbucks-the-central",
+        "review_number": 1385,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-the-central",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1747,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v5md/starbucks-the-central",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569100967",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 20125,
+        "code": "x2sk",
+        "accepts_instructions": true,
+        "address": "25 North Bridge Road #01-01 Singapore",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 100,
+            "name": "Singaporean",
+            "url_key": "singaporean",
+            "main": false
+          },
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          { "id": 39, "name": "Asian", "url_key": "asian", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.014883599396063,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/x2sk-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/x2sk-listing.jpg",
+        "is_new_until": "2019-09-01T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.290149,
+        "logo": "",
+        "longitude": 103.849732,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (EFG Bank Building)",
+        "payment_types": [],
+        "post_code": "179104",
+        "primary_cuisine_id": 1109,
+        "rating": 4.7,
+        "redirection_url": "https://foodpanda.sg/restaurant/x2sk/starbucks-efg-bank-building",
+        "review_number": 123,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-efg-bank-building",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 100,
+              "name": "Singaporean",
+              "url_key": "singaporean",
+              "main": false
+            },
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            { "id": 39, "name": "Asian", "url_key": "asian", "main": false },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1484,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/x2sk/starbucks-efg-bank-building",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569500132",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": false,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 11847,
+        "code": "v3wo",
+        "accepts_instructions": true,
+        "address": "252 North Bridge Road #02-34\nRaffles City Shopping Centre\nSingapore 179103",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.1989870206532336,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v3wo-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v3wo-listing.jpg",
+        "is_new_until": "2018-05-26T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.2934825,
+        "logo": "",
+        "longitude": 103.85339984,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 16.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Raffles City)",
+        "payment_types": [],
+        "post_code": "179103",
+        "primary_cuisine_id": 1109,
+        "rating": 4.7,
+        "redirection_url": "https://foodpanda.sg/restaurant/v3wo/starbucks-raffles-city",
+        "review_number": 966,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-raffles-city",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1681,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v3wo/starbucks-raffles-city",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569100971",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 40499,
+        "code": "mgp9",
+        "accepts_instructions": true,
+        "address": "2 Serangoon Road #01-06/07/08 Tekka Place",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 51,
+            "name": "American",
+            "url_key": "american",
+            "main": false
+          },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.3420769330682094,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/mgp9-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/mgp9-listing.jpg",
+        "is_new_until": "2021-08-28T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.30514985,
+        "logo": "",
+        "longitude": 103.85120195,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Tekka Place)",
+        "payment_types": [],
+        "post_code": "218227",
+        "primary_cuisine_id": 1109,
+        "rating": 3.7,
+        "redirection_url": "https://foodpanda.sg/restaurant/mgp9/starbucks-tekka-place",
+        "review_number": 119,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-tekka-place",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 51,
+              "name": "American",
+              "url_key": "american",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1899,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/mgp9/starbucks-tekka-place",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569748079",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 49903,
+        "code": "eihu",
+        "accepts_instructions": true,
+        "address": "201 Victoria Street #02-12/13, Bugis+",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 51,
+            "name": "American",
+            "url_key": "american",
+            "main": false
+          },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.3129076485117892,
+        "food_characteristics": [],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/eihu-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/eihu-listing.jpg",
+        "is_new_until": "2022-08-19T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.29981159,
+        "logo": "",
+        "longitude": 103.85426655,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 16.0,
+        "minimum_pickup_time": 10.0,
+        "name": "Starbucks (Bugis Plus)",
+        "payment_types": [],
+        "post_code": "188067",
+        "primary_cuisine_id": 1109,
+        "rating": 4.7,
+        "redirection_url": "https://foodpanda.sg/restaurant/eihu/starbucks-bugis-plus",
+        "review_number": 20,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-bugis-plus",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 51,
+              "name": "American",
+              "url_key": "american",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+          ],
+          "food_characteristics": [],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1728,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/eihu/starbucks-bugis-plus",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "Starbucks Coffee Singapore PTE LTD",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6596327794",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": false,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 20124,
+        "code": "x9kg",
+        "accepts_instructions": true,
+        "address": "541 Orchard Road #01-01A Liat Towers",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 100,
+            "name": "Singaporean",
+            "url_key": "singaporean",
+            "main": false
+          },
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          { "id": 39, "name": "Asian", "url_key": "asian", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.6698286958176005,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/x9kg-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/x9kg-listing.jpg",
+        "is_new_until": "2019-09-01T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.3052345,
+        "logo": "",
+        "longitude": 103.83091445,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 16.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Liat Towers)",
+        "payment_types": [],
+        "post_code": "238881",
+        "primary_cuisine_id": 1109,
+        "rating": 4.7,
+        "redirection_url": "https://foodpanda.sg/restaurant/x9kg/starbucks-liat-towers",
+        "review_number": 1078,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-liat-towers",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 100,
+              "name": "Singaporean",
+              "url_key": "singaporean",
+              "main": false
+            },
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            { "id": 39, "name": "Asian", "url_key": "asian", "main": false },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 2036,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/x9kg/starbucks-liat-towers",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569500132",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 20093,
+        "code": "x8nt",
+        "accepts_instructions": true,
+        "address": "9 Raffles Place #01-15/16 Republic Plaza",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          { "id": 67, "name": "Pasta", "url_key": "pasta", "main": false },
+          {
+            "id": 100,
+            "name": "Singaporean",
+            "url_key": "singaporean",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          { "id": 39, "name": "Asian", "url_key": "asian", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.6425155742848851,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/x8nt-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/x8nt-listing.jpg",
+        "is_new_until": "2019-09-01T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.2835908,
+        "logo": "",
+        "longitude": 103.85051515,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Republic Plaza #01-13/14)",
+        "payment_types": [],
+        "post_code": "048619",
+        "primary_cuisine_id": 1109,
+        "rating": 4.8,
+        "redirection_url": "https://foodpanda.sg/restaurant/x8nt/starbucks-republic-plaza-01-13-14",
+        "review_number": 355,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-republic-plaza-01-13-14",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            { "id": 67, "name": "Pasta", "url_key": "pasta", "main": false },
+            {
+              "id": 100,
+              "name": "Singaporean",
+              "url_key": "singaporean",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            { "id": 39, "name": "Asian", "url_key": "asian", "main": false },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1841,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/x8nt/starbucks-republic-plaza-01-13-14",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101305",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 13018,
+        "code": "v8ys",
+        "accepts_instructions": true,
+        "address": "01-01, 40 Pekin Street, Far East Square, Chinatown, Lower Central,",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.560034036399549,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v8ys-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v8ys-listing.jpg",
+        "is_new_until": "2018-07-10T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.2834342,
+        "logo": "",
+        "longitude": 103.8485798,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Far East Square)",
+        "payment_types": [],
+        "post_code": "048770",
+        "primary_cuisine_id": 1109,
+        "rating": 4.6,
+        "redirection_url": "https://foodpanda.sg/restaurant/v8ys/starbucks-far-east-square",
+        "review_number": 236,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-far-east-square",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1594,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v8ys/starbucks-far-east-square",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101311",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 40491,
+        "code": "qtkm",
+        "accepts_instructions": true,
+        "address": "3 Temasek Boulevard #02-613/614 Suntec City Mall",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          { "id": 1110, "name": "Tea", "url_key": "tea", "main": false },
+          {
+            "id": 51,
+            "name": "American",
+            "url_key": "american",
+            "main": false
+          },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.834737378039941,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/qtkm-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/qtkm-listing.jpg",
+        "is_new_until": "2021-08-31T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.29539205,
+        "logo": "",
+        "longitude": 103.85946905,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 16.0,
+        "minimum_pickup_time": 10.0,
+        "name": "Starbucks (Suntec City Tower 3)",
+        "payment_types": [],
+        "post_code": "038983",
+        "primary_cuisine_id": 1109,
+        "rating": 4.0,
+        "redirection_url": "https://foodpanda.sg/restaurant/qtkm/starbucks-suntec-city-tower-3",
+        "review_number": 72,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-suntec-city-tower-3",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            { "id": 1110, "name": "Tea", "url_key": "tea", "main": false },
+            {
+              "id": 51,
+              "name": "American",
+              "url_key": "american",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1602,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/qtkm/starbucks-suntec-city-tower-3",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101277",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": false,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 40500,
+        "code": "ag80",
+        "accepts_instructions": true,
+        "address": "302 Tiong Bahru Road #01-11",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 51,
+            "name": "American",
+            "url_key": "american",
+            "main": false
+          },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 2.0740468397231004,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/ag80-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/ag80-listing.jpg",
+        "is_new_until": "2021-08-31T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.286145,
+        "logo": "",
+        "longitude": 103.827342,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 5.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 10.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Tiong Bahru Plaza)",
+        "payment_types": [],
+        "post_code": "168732",
+        "primary_cuisine_id": 1109,
+        "rating": 4.6,
+        "redirection_url": "https://foodpanda.sg/restaurant/ag80/starbucks-tiong-bahru-plaza",
+        "review_number": 317,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-tiong-bahru-plaza",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 51,
+              "name": "American",
+              "url_key": "american",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 2034,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/ag80/starbucks-tiong-bahru-plaza",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101317",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 11792,
+        "code": "v2qf",
+        "accepts_instructions": true,
+        "address": "01-38, City Square Mall, 180 Kitchener Road, Farrer Park, Upper Central",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 2.2427145167043894,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v2qf-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v2qf-listing.jpg",
+        "is_new_until": "2018-05-26T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.31140395,
+        "logo": "",
+        "longitude": 103.8563631,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (City Square Mall)",
+        "payment_types": [],
+        "post_code": "208539",
+        "primary_cuisine_id": 1109,
+        "rating": 4.7,
+        "redirection_url": "https://foodpanda.sg/restaurant/v2qf/starbucks-city-square-mall",
+        "review_number": 3587,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-city-square-mall",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1983,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v2qf/starbucks-city-square-mall",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101275",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 16131,
+        "code": "w1yx",
+        "accepts_instructions": true,
+        "address": "101 Thomson Road, United Square, #01-01",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 2.3894444276405657,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/w1yx-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/w1yx-listing.jpg",
+        "is_new_until": "2019-02-28T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.31777269,
+        "logo": "",
+        "longitude": 103.8438911,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (United Square)",
+        "payment_types": [],
+        "post_code": "307591",
+        "primary_cuisine_id": 1109,
+        "rating": 4.7,
+        "redirection_url": "https://foodpanda.sg/restaurant/w1yx/starbucks-united-square",
+        "review_number": 1687,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-united-square",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1981,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/w1yx/starbucks-united-square",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101185",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 16134,
+        "code": "w6hj",
+        "accepts_instructions": true,
+        "address": "20 Anson Rd, #01-02,Tanjong Pagar",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          { "id": 1110, "name": "Tea", "url_key": "tea", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 2.361537610637462,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/w6hj-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/w6hj-listing.jpg",
+        "is_new_until": "2019-02-28T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.27529475,
+        "logo": "",
+        "longitude": 103.84610615,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 25.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (20 Anson)",
+        "payment_types": [],
+        "post_code": "079912",
+        "primary_cuisine_id": 1109,
+        "rating": 4.8,
+        "redirection_url": "https://foodpanda.sg/restaurant/w6hj/starbucks-20-anson",
+        "review_number": 587,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-20-anson",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            { "id": 1110, "name": "Tea", "url_key": "tea", "main": false },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1783,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/w6hj/starbucks-20-anson",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101265",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": false,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 40497,
+        "code": "hbif",
+        "accepts_instructions": true,
+        "address": "#01-113/114 Tanglin Mall",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 51,
+            "name": "American",
+            "url_key": "american",
+            "main": false
+          },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 2.384960279814924,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/hbif-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/hbif-listing.jpg",
+        "is_new_until": "2021-08-31T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.3049053,
+        "logo": "",
+        "longitude": 103.823337,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 10.0,
+        "name": "Starbucks (Tanglin Mall)",
+        "payment_types": [],
+        "post_code": "247933",
+        "primary_cuisine_id": 1109,
+        "rating": 4.4,
+        "redirection_url": "https://foodpanda.sg/restaurant/hbif/starbucks-tanglin-mall",
+        "review_number": 112,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-tanglin-mall",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 51,
+              "name": "American",
+              "url_key": "american",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1826,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/hbif/starbucks-tanglin-mall",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101105",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 11597,
+        "code": "v8fn",
+        "accepts_instructions": true,
+        "address": "01-02, Shenton78  Way",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 2.5829401381754717,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v8fn-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v8fn-listing.jpg",
+        "is_new_until": "2018-03-20T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.2731502,
+        "logo": "",
+        "longitude": 103.84487195,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 16.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (78 Shenton)",
+        "payment_types": [],
+        "post_code": "079120",
+        "primary_cuisine_id": 1109,
+        "rating": 4.9,
+        "redirection_url": "https://foodpanda.sg/restaurant/v8fn/starbucks-78-shenton",
+        "review_number": 216,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-78-shenton",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1481,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v8fn/starbucks-78-shenton",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101309",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": false,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 45072,
+        "code": "kl8j",
+        "accepts_instructions": true,
+        "address": "12 Kallang avenue, #01-26 Aperia Aperia Mall, 339511",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 51,
+            "name": "American",
+            "url_key": "american",
+            "main": false
+          },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 2.7742654684974193,
+        "food_characteristics": [
+          {
+            "id": 4,
+            "name": "Halal",
+            "is_halal": false,
+            "is_vegetarian": false
+          },
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/kl8j-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/kl8j-listing.jpg",
+        "is_new_until": "2022-01-18T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.3097539,
+        "logo": "",
+        "longitude": 103.8640083,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 10.0,
+        "name": "Starbucks (Aperia Mall)",
+        "payment_types": [],
+        "post_code": "339511",
+        "primary_cuisine_id": 1109,
+        "rating": 4.8,
+        "redirection_url": "https://foodpanda.sg/restaurant/kl8j/starbucks-aperia-mall",
+        "review_number": 32,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-aperia-mall",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 51,
+              "name": "American",
+              "url_key": "american",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true }
+          ],
+          "food_characteristics": [
+            {
+              "id": 4,
+              "name": "Halal",
+              "is_halal": false,
+              "is_vegetarian": false
+            },
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1826,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/kl8j/starbucks-aperia-mall",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569100941",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 20120,
+        "code": "x5ne",
+        "accepts_instructions": true,
+        "address": "20 Ah Hood Road #01-18A, Zhongshan Mall",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 3.450240037188766,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/x5ne-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/x5ne-listing.jpg",
+        "is_new_until": "2019-09-01T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.3270877,
+        "logo": "",
+        "longitude": 103.84687328,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 12.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Zhongshan Mall #01-18A)",
+        "payment_types": [],
+        "post_code": "329984",
+        "primary_cuisine_id": 1109,
+        "rating": 4.5,
+        "redirection_url": "https://foodpanda.sg/restaurant/x5ne/starbucks-zhongshan-mall-01-18a",
+        "review_number": 1293,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-zhongshan-mall-01-18a",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1893,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/x5ne/starbucks-zhongshan-mall-01-18a",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569500132",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 10463,
+        "code": "v9nq",
+        "accepts_instructions": true,
+        "address": "#01-76/77, 1 Maritime Square, Harbour Front Centre, Keppel Area, Telok Blangah",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 4.333096711582309,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v9nq-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v9nq-listing.jpg",
+        "is_new_until": "2017-12-07T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.26469385,
+        "logo": "",
+        "longitude": 103.8201934,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 16.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (Harbourfront)",
+        "payment_types": [],
+        "post_code": "099253",
+        "primary_cuisine_id": 1109,
+        "rating": 4.6,
+        "redirection_url": "https://foodpanda.sg/restaurant/v9nq/starbucks-harbourfront",
+        "review_number": 1096,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-harbourfront",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1776,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v9nq/starbucks-harbourfront",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569100957",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 23585,
+        "code": "x8fb",
+        "accepts_instructions": true,
+        "address": "51 Upper Serangoon Road, #01-02 The Poiz Centre",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          { "id": 1107, "name": "Cakes", "url_key": "cakes", "main": false },
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 4.810827778129697,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/x8fb-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/x8fb-listing.jpg",
+        "is_new_until": "2020-03-20T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.331184,
+        "logo": "",
+        "longitude": 103.86859235,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": null,
+          "events": [],
+          "is_delivery_available": true,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 10.0,
+        "minimum_pickup_time": 5.0,
+        "name": "Starbucks (The Poiz Centre)",
+        "payment_types": [],
+        "post_code": "347697",
+        "primary_cuisine_id": 1109,
+        "rating": 4.5,
+        "redirection_url": "https://foodpanda.sg/restaurant/x8fb/starbucks-the-poiz-centre",
+        "review_number": 2092,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-the-poiz-centre",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            { "id": 1107, "name": "Cakes", "url_key": "cakes", "main": false },
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 2150,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/x8fb/starbucks-the-poiz-centre",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6568151038",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      },
+      {
+        "id": 10497,
+        "code": "v0vc",
+        "accepts_instructions": true,
+        "address": "01-16, 491 River Valley Road, Valley Point Shopping Centre, Tiong Bahru, West Central",
+        "address_line2": "",
+        "budget": 1,
+        "chain": {
+          "code": "ct1un",
+          "name": "Starbucks",
+          "main_vendor_code": "v7bu",
+          "url_key": "starbucks"
+        },
+        "city": { "name": "Singapore" },
+        "cuisines": [
+          {
+            "id": 35,
+            "name": "Sandwiches",
+            "url_key": "sandwiches",
+            "main": false
+          },
+          { "id": 48, "name": "Dessert", "url_key": "dessert", "main": false },
+          { "id": 115, "name": "Western", "url_key": "western", "main": false },
+          {
+            "id": 53,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": false
+          },
+          { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+          {
+            "id": 1108,
+            "name": "Bakery",
+            "url_key": "bakery-1108",
+            "main": false
+          }
+        ],
+        "custom_location_url": "",
+        "customer_type": "all",
+        "delivery_box": "",
+        "delivery_fee_type": "amount",
+        "description": "",
+        "distance": 1.8727756376476687,
+        "food_characteristics": [
+          {
+            "id": 337,
+            "name": "Green Label",
+            "is_halal": false,
+            "is_vegetarian": false
+          }
+        ],
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/v0vc-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-sg/LH/v0vc-listing.jpg",
+        "is_new_until": "2017-12-07T00:00:00Z",
+        "premium_position": 0,
+        "latitude": 1.2928944,
+        "logo": "",
+        "longitude": 103.8264918,
+        "loyalty_percentage_amount": 0.0,
+        "loyalty_program_enabled": false,
+        "maximum_express_order_amount": 0,
+        "metadata": {
+          "has_discount": false,
+          "timezone": "Asia/Singapore",
+          "close_reasons": [],
+          "available_in": "2023-05-30T07:30:00+0800",
+          "events": [],
+          "is_delivery_available": false,
+          "is_pickup_available": true,
+          "is_dine_in_available": false,
+          "is_express_delivery_available": false,
+          "is_temporary_closed": false,
+          "is_flood_feature_closed": false
+        },
+        "minimum_delivery_fee": 5.99,
+        "minimum_delivery_time": 30.0,
+        "minimum_order_amount": 10.0,
+        "minimum_pickup_time": 15.0,
+        "name": "Starbucks (Valley Point)",
+        "payment_types": [],
+        "post_code": "248371",
+        "primary_cuisine_id": 1109,
+        "rating": 4.8,
+        "redirection_url": "https://foodpanda.sg/restaurant/v0vc/starbucks-valley-point",
+        "review_number": 2453,
+        "review_with_comment_number": 0,
+        "score": 0.0,
+        "service_fee_percentage_amount": 0,
+        "service_tax_percentage_amount": 0,
+        "tag": "",
+        "tags": [],
+        "url_key": "starbucks-valley-point",
+        "vat_percentage_amount": 0,
+        "characteristics": {
+          "cuisines": [
+            {
+              "id": 35,
+              "name": "Sandwiches",
+              "url_key": "sandwiches",
+              "main": false
+            },
+            {
+              "id": 48,
+              "name": "Dessert",
+              "url_key": "dessert",
+              "main": false
+            },
+            {
+              "id": 115,
+              "name": "Western",
+              "url_key": "western",
+              "main": false
+            },
+            {
+              "id": 53,
+              "name": "Beverages",
+              "url_key": "beverages",
+              "main": false
+            },
+            { "id": 1109, "name": "Coffee", "url_key": "coffee", "main": true },
+            {
+              "id": 1108,
+              "name": "Bakery",
+              "url_key": "bakery-1108",
+              "main": false
+            }
+          ],
+          "food_characteristics": [
+            {
+              "id": 337,
+              "name": "Green Label",
+              "is_halal": false,
+              "is_vegetarian": false
+            }
+          ],
+          "primary_cuisine": {
+            "id": 1109,
+            "name": "Coffee",
+            "url_key": "coffee",
+            "main": true
+          }
+        },
+        "vendor_points": 1923,
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://foodpanda.sg/restaurant/v0vc/starbucks-valley-point",
+        "website": "",
+        "has_online_payment": true,
+        "discounts_info": [],
+        "discounts": [],
+        "vendor_legal_information": {
+          "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
+          "trade_register_number": "198800670D"
+        },
+        "disclaimers": [],
+        "customer_phone": "+6569101247",
+        "vertical_type_ids": ["restaurants"],
+        "delivery_provider": "platform_delivery",
+        "is_active": true,
+        "is_best_in_city": false,
+        "is_checkout_comment_enabled": false,
+        "is_delivery_enabled": true,
+        "is_new": false,
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_replacement_dish_enabled": false,
+        "is_service_fee_enabled": false,
+        "is_service_tax_enabled": false,
+        "is_service_tax_visible": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": true,
+        "is_vat_visible": false,
+        "is_voucher_enabled": true,
+        "is_promoted": false,
+        "tag_ids": []
+      }
+    ],
+    "num_platform_delivery": 0,
+    "num_vendor_delivery": 0,
+    "num_platform_delivery_page": 0,
+    "num_vendor_delivery_page": 0,
+    "dynamic_pricing_session": null,
+    "discount_labels_metadata": {},
+    "aggregations": {
+      "cuisines": [
+        { "id": 1089, "title": "Acai Bowl", "count": 30, "slug": "acai-bowl" },
+        { "id": 57, "title": "Alcohol", "count": 38, "slug": "alcohol-1" },
+        { "id": 51, "title": "American", "count": 408, "slug": "american" },
+        { "id": 39, "title": "Asian", "count": 3729, "slug": "asian" },
+        {
+          "id": 1092,
+          "title": "Ayam Penyet",
+          "count": 30,
+          "slug": "ayam-penyet"
+        },
+        {
+          "id": 1088,
+          "title": "Bak Kut Teh",
+          "count": 22,
+          "slug": "bak-kut-teh"
+        },
+        { "id": 1108, "title": "Bakery", "count": 323, "slug": "bakery-1108" },
+        { "id": 1093, "title": "Ban Mian", "count": 27, "slug": "ban-mian" },
+        { "id": 53, "title": "Beverages", "count": 1273, "slug": "beverages" },
+        { "id": 99, "title": "Brazilian", "count": 3, "slug": "brazilian" },
+        {
+          "id": 1074,
+          "title": "Bubble Tea",
+          "count": 245,
+          "slug": "bubble-tea"
+        },
+        { "id": 49, "title": "Burgers", "count": 262, "slug": "burgers" },
+        { "id": 1107, "title": "Cakes", "count": 267, "slug": "cakes" },
+        { "id": 64, "title": "Chicken", "count": 1766, "slug": "chicken" },
+        {
+          "id": 1105,
+          "title": "Chicken Rice",
+          "count": 73,
+          "slug": "chicken-rice"
+        },
+        {
+          "id": 1097,
+          "title": "Chicken Wings",
+          "count": 111,
+          "slug": "chicken-wings"
+        },
+        { "id": 38, "title": "Chinese", "count": 1617, "slug": "chinese" },
+        {
+          "id": 1085,
+          "title": "Coconut Shake",
+          "count": 52,
+          "slug": "coconut-shake"
+        },
+        { "id": 1109, "title": "Coffee", "count": 331, "slug": "coffee" },
+        { "id": 1078, "title": "Curry", "count": 205, "slug": "curry" },
+        { "id": 48, "title": "Dessert", "count": 1032, "slug": "dessert" },
+        { "id": 1079, "title": "Dim Sum ", "count": 159, "slug": "dim-sum" },
+        { "id": 1090, "title": "Donut", "count": 22, "slug": "donut" },
+        { "id": 50, "title": "Fast Food", "count": 277, "slug": "fast-food" },
+        { "id": 149, "title": "Filipino", "count": 113, "slug": "filipino" },
+        { "id": 82, "title": "Fish", "count": 119, "slug": "fish" },
+        { "id": 1086, "title": "Fish Soup", "count": 38, "slug": "fish-soup" },
+        { "id": 45, "title": "French", "count": 51, "slug": "french" },
+        {
+          "id": 1076,
+          "title": "Fried Chicken",
+          "count": 212,
+          "slug": "fried-chicken"
+        },
+        {
+          "id": 1091,
+          "title": "Fried Rice",
+          "count": 312,
+          "slug": "fried-rice"
+        },
+        { "id": 1098, "title": "Fries", "count": 125, "slug": "fries" },
+        { "id": 81, "title": "German", "count": 8, "slug": "german" },
+        {
+          "id": 1081,
+          "title": "Grain Bowl",
+          "count": 22,
+          "slug": "grain-bowl"
+        },
+        { "id": 79, "title": "Greek", "count": 4, "slug": "greek" },
+        { "id": 61, "title": "Grill", "count": 129, "slug": "grill" },
+        { "id": 108, "title": "Halal", "count": 610, "slug": "halal" },
+        { "id": 1084, "title": "Hawker", "count": 13, "slug": "hawker" },
+        { "id": 97, "title": "Healthy", "count": 269, "slug": "healthy" },
+        {
+          "id": 1094,
+          "title": "Hokkien Mee",
+          "count": 20,
+          "slug": "hokkien-mee"
+        },
+        { "id": 74, "title": "Ice Cream", "count": 55, "slug": "ice-cream" },
+        { "id": 44, "title": "Indian", "count": 438, "slug": "indian" },
+        { "id": 78, "title": "Indonesian", "count": 124, "slug": "indonesian" },
+        {
+          "id": 43,
+          "title": "International",
+          "count": 115,
+          "slug": "international"
+        },
+        { "id": 33, "title": "Italian", "count": 353, "slug": "italian" },
+        { "id": 36, "title": "Japanese", "count": 653, "slug": "japanese" },
+        {
+          "id": 1106,
+          "title": "Kaya Toast",
+          "count": 49,
+          "slug": "kaya-toast"
+        },
+        { "id": 60, "title": "Korean", "count": 184, "slug": "korean" },
+        { "id": 1095, "title": "Laksa", "count": 39, "slug": "laksa" },
+        { "id": 55, "title": "Lebanese", "count": 5, "slug": "lebanese" },
+        {
+          "id": 1087,
+          "title": "Mala Soups",
+          "count": 28,
+          "slug": "mala-soups"
+        },
+        {
+          "id": 1100,
+          "title": "Mala Xiang Guo",
+          "count": 80,
+          "slug": "mala-xiang-guo"
+        },
+        { "id": 104, "title": "Malaysian", "count": 491, "slug": "malaysian" },
+        {
+          "id": 69,
+          "title": "Mediterranean",
+          "count": 29,
+          "slug": "mediterranean"
+        },
+        { "id": 34, "title": "Mexican", "count": 77, "slug": "mexican" },
+        {
+          "id": 77,
+          "title": "Middle Eastern",
+          "count": 64,
+          "slug": "middle-eastern"
+        },
+        {
+          "id": 1103,
+          "title": "Nasi Lemak",
+          "count": 59,
+          "slug": "nasi-lemak"
+        },
+        { "id": 73, "title": "Noodles", "count": 1233, "slug": "noodles" },
+        { "id": 103, "title": "Pakistani", "count": 1, "slug": "pakistani" },
+        {
+          "id": 92,
+          "title": "Pancakes and Waffles",
+          "count": 86,
+          "slug": "pancakes-and-waffles"
+        },
+        { "id": 67, "title": "Pasta", "count": 587, "slug": "pasta" },
+        { "id": 1104, "title": "Pho", "count": 38, "slug": "pho" },
+        { "id": 37, "title": "Pizza", "count": 271, "slug": "pizza" },
+        { "id": 1080, "title": "Poke Bowl ", "count": 11, "slug": "poke-bowl" },
+        { "id": 1099, "title": "Porridge", "count": 69, "slug": "porridge" },
+        { "id": 1072, "title": "Ramen", "count": 110, "slug": "ramen" },
+        {
+          "id": 87,
+          "title": "Rice Dishes",
+          "count": 1927,
+          "slug": "rice-dishes"
+        },
+        {
+          "id": 1102,
+          "title": "Roti Prata",
+          "count": 62,
+          "slug": "roti-prata"
+        },
+        { "id": 42, "title": "Salads", "count": 272, "slug": "salads" },
+        { "id": 35, "title": "Sandwiches", "count": 760, "slug": "sandwiches" },
+        { "id": 1083, "title": "Satay", "count": 34, "slug": "satay" },
+        { "id": 46, "title": "Seafood", "count": 1016, "slug": "seafood" },
+        { "id": 90, "title": "Shawarma", "count": 33, "slug": "shawarma" },
+        {
+          "id": 100,
+          "title": "Singaporean",
+          "count": 1381,
+          "slug": "singaporean"
+        },
+        { "id": 86, "title": "Snacks", "count": 335, "slug": "snacks" },
+        { "id": 71, "title": "Soups", "count": 569, "slug": "soups" },
+        { "id": 66, "title": "Spanish", "count": 8, "slug": "spanish" },
+        { "id": 52, "title": "Sushi", "count": 119, "slug": "sushi" },
+        { "id": 1110, "title": "Tea", "count": 215, "slug": "tea" },
+        { "id": 40, "title": "Thai", "count": 195, "slug": "thai" },
+        { "id": 63, "title": "Turkish", "count": 34, "slug": "turkish" },
+        { "id": 1096, "title": "Udon", "count": 34, "slug": "udon" },
+        { "id": 58, "title": "Vegetarian", "count": 475, "slug": "vegetarian" },
+        { "id": 65, "title": "Vietnamese", "count": 72, "slug": "vietnamese" },
+        { "id": 115, "title": "Western", "count": 1277, "slug": "western" },
+        { "id": 85, "title": "Wraps", "count": 119, "slug": "wraps" },
+        {
+          "id": 1101,
+          "title": "Yong Tau Foo",
+          "count": 8,
+          "slug": "yong-tau-foo"
+        }
+      ],
+      "events": [],
+      "discount_labels": [],
+      "discounts": [],
+      "close_reasons": [],
+      "banner": "",
+      "location_event": null,
+      "partners": [],
+      "payment_types": [
+        {
+          "id": "credit_card",
+          "title": "NEXTGEN_PAYMENT_SELECTION_CREDIT_CARD",
+          "highlighted": true,
+          "count": 5458
+        },
+        {
+          "id": "balance",
+          "title": "NEXTGEN_PAYMENT_SELECTION_BALANCE",
+          "highlighted": true,
+          "count": 5422
+        },
+        {
+          "id": "adyen_hpp_paypal",
+          "title": "NEXTGEN_PAYMENT_SELECTION_ADYEN_HPP_PAYPAL",
+          "highlighted": false,
+          "count": 1
+        },
+        {
+          "id": "applepay",
+          "title": "NEXTGEN_PAYMENT_SELECTION_APPLEPAY",
+          "highlighted": false,
+          "count": 5454
+        },
+        {
+          "id": "generic_applepay",
+          "title": "NEXTGEN_PAYMENT_SELECTION_GENERIC_APPLEPAY",
+          "highlighted": false,
+          "count": 4950
+        },
+        {
+          "id": "generic_creditcard",
+          "title": "NEXTGEN_PAYMENT_SELECTION_GENERIC_CREDITCARD",
+          "highlighted": false,
+          "count": 4951
+        },
+        {
+          "id": "generic_googlepay",
+          "title": "NEXTGEN_PAYMENT_SELECTION_GENERIC_GOOGLEPAY",
+          "highlighted": false,
+          "count": 4949
+        },
+        {
+          "id": "googlepay",
+          "title": "NEXTGEN_PAYMENT_SELECTION_GOOGLEPAY",
+          "highlighted": false,
+          "count": 5385
+        },
+        {
+          "id": "invoice",
+          "title": "NEXTGEN_PAYMENT_SELECTION_INVOICE",
+          "highlighted": false,
+          "count": 5458
+        },
+        {
+          "id": "payment_on_delivery",
+          "title": "NEXTGEN_PAYMENT_SELECTION_PAYMENT_ON_DELIVERY",
+          "highlighted": false,
+          "count": 5272
+        },
+        {
+          "id": "paypal",
+          "title": "NEXTGEN_PAYMENT_SELECTION_PAYPAL",
+          "highlighted": false,
+          "count": 5457
+        },
+        {
+          "id": "reddot_paylah",
+          "title": "NEXTGEN_PAYMENT_SELECTION_REDDOT_PAYLAH",
+          "highlighted": false,
+          "count": 5449
+        }
+      ],
+      "foodCharacteristics": [
+        { "id": 306, "title": "Bar", "count": 17, "slug": "bar" },
+        { "id": 307, "title": "Cafe", "count": 43, "slug": "cafe" },
+        { "id": 304, "title": "Casual", "count": 180, "slug": "casual" },
+        {
+          "id": 305,
+          "title": "Fine Dining",
+          "count": 8,
+          "slug": "fine-dining"
+        },
+        {
+          "id": 337,
+          "title": "Green Label",
+          "count": 232,
+          "slug": "green-label"
+        },
+        { "id": 4, "title": "Halal", "count": 386, "slug": "halal" },
+        { "id": 333, "title": "Hawker", "count": 112, "slug": "hawker" },
+        { "id": 191, "title": "Muuse", "count": 8, "slug": "muuse" }
+      ],
+      "quickFilters": [
+        { "id": 0, "title": "has_online_payment", "count": 5458, "slug": null },
+        { "id": 0, "title": "is_voucher_enabled", "count": 5456, "slug": null },
+        { "id": 0, "title": "has_discount", "count": 827, "slug": null },
+        { "id": 0, "title": "has_free_delivery", "count": 328, "slug": null },
+        { "id": 0, "title": "is_super_vendor", "count": 198, "slug": null }
+      ],
+      "foodCharacteristicsTypes": {
+        "": [
+          { "id": 4, "title": "Halal", "count": 386, "type": "" },
+          { "id": 191, "title": "Muuse", "count": 8, "type": "" }
+        ],
+        "restaurant_type": [
+          { "id": 306, "title": "Bar", "count": 17, "type": "restaurant_type" },
+          {
+            "id": 307,
+            "title": "Cafe",
+            "count": 43,
+            "type": "restaurant_type"
+          },
+          {
+            "id": 304,
+            "title": "Casual",
+            "count": 180,
+            "type": "restaurant_type"
+          },
+          {
+            "id": 305,
+            "title": "Fine Dining",
+            "count": 8,
+            "type": "restaurant_type"
+          },
+          {
+            "id": 337,
+            "title": "Green Label",
+            "count": 232,
+            "type": "restaurant_type"
+          },
+          {
+            "id": 333,
+            "title": "Hawker",
+            "count": 112,
+            "type": "restaurant_type"
+          }
+        ]
+      }
+    },
+    "tags": {}
+  }
+}
