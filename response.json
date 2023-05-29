@@ -50,7 +50,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 0.8877314738107751,
+        "distance": 0.8918879967213936,
         "food_characteristics": [
           {
             "id": 337,
@@ -83,9 +83,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 4.19,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Orchard Cineleisure)",
         "payment_types": [],
@@ -160,6 +160,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 2.79,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -223,7 +230,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 0.9572950197811583,
+        "distance": 0.9649825027512675,
         "food_characteristics": [
           {
             "id": 337,
@@ -256,9 +263,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 4.19,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (The Central)",
         "payment_types": [],
@@ -321,6 +328,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 2.79,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -391,7 +405,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.014883599396063,
+        "distance": 1.0128503488617897,
         "food_characteristics": [
           {
             "id": 337,
@@ -424,9 +438,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 4.19,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (EFG Bank Building)",
         "payment_types": [],
@@ -496,6 +510,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 2.79,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -553,7 +574,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.1989870206532336,
+        "distance": 1.1846403748579966,
         "food_characteristics": [
           {
             "id": 337,
@@ -586,9 +607,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_fee": 4.19,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 16.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Raffles City)",
         "payment_types": [],
@@ -645,6 +666,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 2.79,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -721,7 +749,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.3420769330682094,
+        "distance": 1.314876927980206,
         "food_characteristics": [
           {
             "id": 337,
@@ -754,9 +782,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 4.19,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Tekka Place)",
         "payment_types": [],
@@ -837,6 +865,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 2.79,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -900,7 +935,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.3129076485117892,
+        "distance": 1.2882840962746291,
         "food_characteristics": [],
         "has_delivery_provider": true,
         "hero_image": "https://images.deliveryhero.io/image/fd-sg/LH/eihu-hero.jpg",
@@ -926,9 +961,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_fee": 4.19,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 16.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 10.0,
         "name": "Starbucks (Bugis Plus)",
         "payment_types": [],
@@ -984,6 +1019,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 2.79,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "Starbucks Coffee Singapore PTE LTD",
           "trade_register_number": "198800670D"
@@ -1061,7 +1103,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.6698286958176005,
+        "distance": 1.6752219304554548,
         "food_characteristics": [
           {
             "id": 337,
@@ -1094,9 +1136,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_fee": 4.69,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 16.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Liat Towers)",
         "payment_types": [],
@@ -1178,6 +1220,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 3.29,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -1250,7 +1299,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.6425155742848851,
+        "distance": 1.6483797771689044,
         "food_characteristics": [
           {
             "id": 337,
@@ -1283,9 +1332,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 4.69,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Republic Plaza #01-13/14)",
         "payment_types": [],
@@ -1362,6 +1411,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 3.29,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -1426,7 +1482,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.560034036399549,
+        "distance": 1.5691704705572709,
         "food_characteristics": [
           {
             "id": 337,
@@ -1459,9 +1515,9 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 4.69,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Far East Square)",
         "payment_types": [],
@@ -1530,6 +1586,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 3.29,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -1594,7 +1657,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.834737378039941,
+        "distance": 1.815793026816584,
         "food_characteristics": [
           {
             "id": 337,
@@ -1627,9 +1690,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 16.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 10.0,
         "name": "Starbucks (Suntec City Tower 3)",
         "payment_types": [],
@@ -1693,6 +1757,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -1769,7 +1840,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 2.0740468397231004,
+        "distance": 2.1009609274197665,
         "food_characteristics": [
           {
             "id": 337,
@@ -1802,9 +1873,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 5.99,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 10.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Tiong Bahru Plaza)",
         "payment_types": [],
@@ -1885,6 +1957,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -1955,7 +2034,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 2.2427145167043894,
+        "distance": 2.2155728942686475,
         "food_characteristics": [
           {
             "id": 337,
@@ -1988,9 +2067,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (City Square Mall)",
         "payment_types": [],
@@ -2065,6 +2145,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -2135,7 +2222,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 2.3894444276405657,
+        "distance": 2.3702381592425885,
         "food_characteristics": [
           {
             "id": 337,
@@ -2168,9 +2255,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (United Square)",
         "payment_types": [],
@@ -2245,6 +2333,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -2316,7 +2411,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 2.361537610637462,
+        "distance": 2.3769551116599494,
         "food_characteristics": [
           {
             "id": 337,
@@ -2349,9 +2444,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 25.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (20 Anson)",
         "payment_types": [],
@@ -2427,6 +2523,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -2503,7 +2606,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 2.384960279814924,
+        "distance": 2.3960985314124894,
         "food_characteristics": [
           {
             "id": 337,
@@ -2536,9 +2639,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 10.0,
         "name": "Starbucks (Tanglin Mall)",
         "payment_types": [],
@@ -2619,6 +2723,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -2689,7 +2800,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 2.5829401381754717,
+        "distance": 2.599798837402576,
         "food_characteristics": [
           {
             "id": 337,
@@ -2722,9 +2833,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 16.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (78 Shenton)",
         "payment_types": [],
@@ -2799,6 +2911,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -2868,7 +2987,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 2.7742654684974193,
+        "distance": 2.747390278700283,
         "food_characteristics": [
           {
             "id": 4,
@@ -2907,9 +3026,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 7.09,
+        "delivery_fee_delta": 0.7,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 10.0,
         "name": "Starbucks (Aperia Mall)",
         "payment_types": [],
@@ -2984,6 +3104,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 5.69,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -3054,7 +3181,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 3.450240037188766,
+        "distance": 3.429457211478424,
         "food_characteristics": [
           {
             "id": 337,
@@ -3087,9 +3214,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 7.09,
+        "delivery_fee_delta": 0.7,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 12.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Zhongshan Mall #01-18A)",
         "payment_types": [],
@@ -3164,6 +3292,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 5.69,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -3234,7 +3369,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 4.333096711582309,
+        "distance": 4.359827393347363,
         "food_characteristics": [
           {
             "id": 337,
@@ -3267,9 +3402,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 4.3,
+        "minimum_delivery_fee": 8.39,
+        "delivery_fee_delta": 1.3,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 16.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (Harbourfront)",
         "payment_types": [],
@@ -3344,6 +3480,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 6.99,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -3415,7 +3558,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 4.810827778129697,
+        "distance": 4.784058450060929,
         "food_characteristics": [
           {
             "id": 337,
@@ -3448,9 +3591,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 2.99,
+        "minimum_delivery_fee": 8.19,
+        "delivery_fee_delta": 1.3,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 10.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 5.0,
         "name": "Starbucks (The Poiz Centre)",
         "payment_types": [],
@@ -3526,6 +3670,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 6.79,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -3596,7 +3747,7 @@
         "delivery_box": "",
         "delivery_fee_type": "amount",
         "description": "",
-        "distance": 1.8727756376476687,
+        "distance": 1.8962458157517295,
         "food_characteristics": [
           {
             "id": 337,
@@ -3629,9 +3780,10 @@
           "is_temporary_closed": false,
           "is_flood_feature_closed": false
         },
-        "minimum_delivery_fee": 5.99,
+        "minimum_delivery_fee": 5.79,
+        "delivery_fee_delta": 0.4,
         "minimum_delivery_time": 30.0,
-        "minimum_order_amount": 10.0,
+        "minimum_order_amount": 15.0,
         "minimum_pickup_time": 15.0,
         "name": "Starbucks (Valley Point)",
         "payment_types": [],
@@ -3706,6 +3858,13 @@
         "has_online_payment": true,
         "discounts_info": [],
         "discounts": [],
+        "minimum_basket_value_discount": {
+          "is_free_delivery": false,
+          "delivery_discount": 1.4,
+          "threshold": 32.0,
+          "total_delivery_fee": 4.39,
+          "is_pro": false
+        },
         "vendor_legal_information": {
           "legal_name": "STARBUCKS COFFEE SINGAPORE PTE. LTD.",
           "trade_register_number": "198800670D"
@@ -3746,7 +3905,7 @@
         { "id": 1089, "title": "Acai Bowl", "count": 30, "slug": "acai-bowl" },
         { "id": 57, "title": "Alcohol", "count": 38, "slug": "alcohol-1" },
         { "id": 51, "title": "American", "count": 408, "slug": "american" },
-        { "id": 39, "title": "Asian", "count": 3729, "slug": "asian" },
+        { "id": 39, "title": "Asian", "count": 3730, "slug": "asian" },
         {
           "id": 1092,
           "title": "Ayam Penyet",
@@ -3793,7 +3952,7 @@
         },
         { "id": 1109, "title": "Coffee", "count": 331, "slug": "coffee" },
         { "id": 1078, "title": "Curry", "count": 205, "slug": "curry" },
-        { "id": 48, "title": "Dessert", "count": 1032, "slug": "dessert" },
+        { "id": 48, "title": "Dessert", "count": 1031, "slug": "dessert" },
         { "id": 1079, "title": "Dim Sum ", "count": 159, "slug": "dim-sum" },
         { "id": 1090, "title": "Donut", "count": 22, "slug": "donut" },
         { "id": 50, "title": "Fast Food", "count": 277, "slug": "fast-food" },
@@ -3832,7 +3991,7 @@
           "count": 20,
           "slug": "hokkien-mee"
         },
-        { "id": 74, "title": "Ice Cream", "count": 55, "slug": "ice-cream" },
+        { "id": 74, "title": "Ice Cream", "count": 54, "slug": "ice-cream" },
         { "id": 44, "title": "Indian", "count": 438, "slug": "indian" },
         { "id": 78, "title": "Indonesian", "count": 124, "slug": "indonesian" },
         {
@@ -3841,7 +4000,7 @@
           "count": 115,
           "slug": "international"
         },
-        { "id": 33, "title": "Italian", "count": 353, "slug": "italian" },
+        { "id": 33, "title": "Italian", "count": 352, "slug": "italian" },
         { "id": 36, "title": "Japanese", "count": 653, "slug": "japanese" },
         {
           "id": 1106,
@@ -3892,9 +4051,9 @@
           "count": 86,
           "slug": "pancakes-and-waffles"
         },
-        { "id": 67, "title": "Pasta", "count": 587, "slug": "pasta" },
+        { "id": 67, "title": "Pasta", "count": 586, "slug": "pasta" },
         { "id": 1104, "title": "Pho", "count": 38, "slug": "pho" },
-        { "id": 37, "title": "Pizza", "count": 271, "slug": "pizza" },
+        { "id": 37, "title": "Pizza", "count": 270, "slug": "pizza" },
         { "id": 1080, "title": "Poke Bowl ", "count": 11, "slug": "poke-bowl" },
         { "id": 1099, "title": "Porridge", "count": 69, "slug": "porridge" },
         { "id": 1072, "title": "Ramen", "count": 110, "slug": "ramen" },
@@ -3911,17 +4070,17 @@
           "slug": "roti-prata"
         },
         { "id": 42, "title": "Salads", "count": 272, "slug": "salads" },
-        { "id": 35, "title": "Sandwiches", "count": 760, "slug": "sandwiches" },
+        { "id": 35, "title": "Sandwiches", "count": 759, "slug": "sandwiches" },
         { "id": 1083, "title": "Satay", "count": 34, "slug": "satay" },
-        { "id": 46, "title": "Seafood", "count": 1016, "slug": "seafood" },
+        { "id": 46, "title": "Seafood", "count": 1015, "slug": "seafood" },
         { "id": 90, "title": "Shawarma", "count": 33, "slug": "shawarma" },
         {
           "id": 100,
           "title": "Singaporean",
-          "count": 1381,
+          "count": 1382,
           "slug": "singaporean"
         },
-        { "id": 86, "title": "Snacks", "count": 335, "slug": "snacks" },
+        { "id": 86, "title": "Snacks", "count": 334, "slug": "snacks" },
         { "id": 71, "title": "Soups", "count": 569, "slug": "soups" },
         { "id": 66, "title": "Spanish", "count": 8, "slug": "spanish" },
         { "id": 52, "title": "Sushi", "count": 119, "slug": "sushi" },
@@ -3929,9 +4088,9 @@
         { "id": 40, "title": "Thai", "count": 195, "slug": "thai" },
         { "id": 63, "title": "Turkish", "count": 34, "slug": "turkish" },
         { "id": 1096, "title": "Udon", "count": 34, "slug": "udon" },
-        { "id": 58, "title": "Vegetarian", "count": 475, "slug": "vegetarian" },
+        { "id": 58, "title": "Vegetarian", "count": 474, "slug": "vegetarian" },
         { "id": 65, "title": "Vietnamese", "count": 72, "slug": "vietnamese" },
-        { "id": 115, "title": "Western", "count": 1277, "slug": "western" },
+        { "id": 115, "title": "Western", "count": 1274, "slug": "western" },
         { "id": 85, "title": "Wraps", "count": 119, "slug": "wraps" },
         {
           "id": 1101,
@@ -3952,13 +4111,13 @@
           "id": "credit_card",
           "title": "NEXTGEN_PAYMENT_SELECTION_CREDIT_CARD",
           "highlighted": true,
-          "count": 5458
+          "count": 5455
         },
         {
           "id": "balance",
           "title": "NEXTGEN_PAYMENT_SELECTION_BALANCE",
           "highlighted": true,
-          "count": 5422
+          "count": 5419
         },
         {
           "id": "adyen_hpp_paypal",
@@ -3970,55 +4129,55 @@
           "id": "applepay",
           "title": "NEXTGEN_PAYMENT_SELECTION_APPLEPAY",
           "highlighted": false,
-          "count": 5454
+          "count": 5451
         },
         {
           "id": "generic_applepay",
           "title": "NEXTGEN_PAYMENT_SELECTION_GENERIC_APPLEPAY",
           "highlighted": false,
-          "count": 4950
+          "count": 4947
         },
         {
           "id": "generic_creditcard",
           "title": "NEXTGEN_PAYMENT_SELECTION_GENERIC_CREDITCARD",
           "highlighted": false,
-          "count": 4951
+          "count": 4948
         },
         {
           "id": "generic_googlepay",
           "title": "NEXTGEN_PAYMENT_SELECTION_GENERIC_GOOGLEPAY",
           "highlighted": false,
-          "count": 4949
+          "count": 4946
         },
         {
           "id": "googlepay",
           "title": "NEXTGEN_PAYMENT_SELECTION_GOOGLEPAY",
           "highlighted": false,
-          "count": 5385
+          "count": 5382
         },
         {
           "id": "invoice",
           "title": "NEXTGEN_PAYMENT_SELECTION_INVOICE",
           "highlighted": false,
-          "count": 5458
+          "count": 5455
         },
         {
           "id": "payment_on_delivery",
           "title": "NEXTGEN_PAYMENT_SELECTION_PAYMENT_ON_DELIVERY",
           "highlighted": false,
-          "count": 5272
+          "count": 5269
         },
         {
           "id": "paypal",
           "title": "NEXTGEN_PAYMENT_SELECTION_PAYPAL",
           "highlighted": false,
-          "count": 5457
+          "count": 5454
         },
         {
           "id": "reddot_paylah",
           "title": "NEXTGEN_PAYMENT_SELECTION_REDDOT_PAYLAH",
           "highlighted": false,
-          "count": 5449
+          "count": 5446
         }
       ],
       "foodCharacteristics": [
@@ -4042,10 +4201,10 @@
         { "id": 191, "title": "Muuse", "count": 8, "slug": "muuse" }
       ],
       "quickFilters": [
-        { "id": 0, "title": "has_online_payment", "count": 5458, "slug": null },
-        { "id": 0, "title": "is_voucher_enabled", "count": 5456, "slug": null },
-        { "id": 0, "title": "has_discount", "count": 827, "slug": null },
-        { "id": 0, "title": "has_free_delivery", "count": 328, "slug": null },
+        { "id": 0, "title": "has_online_payment", "count": 5455, "slug": null },
+        { "id": 0, "title": "is_voucher_enabled", "count": 5453, "slug": null },
+        { "id": 0, "title": "has_discount", "count": 824, "slug": null },
+        { "id": 0, "title": "has_free_delivery", "count": 317, "slug": null },
         { "id": 0, "title": "is_super_vendor", "count": 198, "slug": null }
       ],
       "foodCharacteristicsTypes": {
